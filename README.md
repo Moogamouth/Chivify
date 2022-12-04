@@ -1,2 +1,2 @@
 # Chivify
-Viewer for Arweave archived sites.
+Viewer for Arweave archived webpages.
